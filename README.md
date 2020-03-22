@@ -17,6 +17,7 @@ See to it that opportunity exists before performing swap. Otherwise, though the 
 ## Requirements
 
 Contract compilation requires [Truffle](https://www.trufflesuite.com/docs/truffle/getting-started/installation).
+This project is currently written to run in NodeJS and via a Geth Light Node.
 Other dependencies found in `package.json`.
 
 ## For Future
